@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 
-const char* ssid = "NETGEAR82";
-const char* password = "Chloe0329";
+const char* ssid = "Xai3GDi";
+const char* password = "khongbiet";
 
 // MQTT Broker
 const char *mqtt_broker = "broker.mqttdashboard.com";
